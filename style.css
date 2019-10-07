@@ -1,0 +1,22 @@
+/*
+Theme Name: SiteHo
+Theme URI: https://sitesehospedagem.com.br
+Template: Divi
+Author: Sites & Hospedagem
+Author URI: https://sitesehospedagem.com.br
+Description: Inteligente. Flexível. Eficiente. SiteHo é um poderoso tema otimizado para performance.
+Tags: responsive-layout,one-column,two-columns,three-columns,four-columns,left-sidebar,right-sidebar,custom-background,custom-colors,featured-images,full-width-template,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready
+Version: 1.1.1547892335
+Updated: 2019-08-28 16:29:35
+
+.imagezoom {
+overflow:hidden;
+}
+.imagezoom scale-image img{
+transition: all 0.5s;
+}
+.imagezoom :hover img {
+transform: scale(1.1)
+}
+
+*/
