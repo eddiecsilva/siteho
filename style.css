@@ -20,3 +20,23 @@ transform: scale(1.1)
 }
 
 */
+
+/* 
+Set Equal Column Heights using Flexbox
+https://divi.space/css-course/how-to-set-equal-column-heights-using-flexbox/
+*/
+.flex-row-wrapper {
+    display: flex;
+   }
+    
+   .flex-row-wrapper .et_pb_column {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: space-between;
+   }
+   @media screen and (max-width: 981px) {
+     .flex-row-wrapper  { 
+      flex-direction:column;
+   }
+   }
