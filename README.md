@@ -9,6 +9,8 @@ Versão 1.0 - 08 de Outubro 2019
 - criado o tema filho
 - adicionado suporte a geração/exibição de shortcodes no functions.php com base no código compartilhado no seguinte tutorial: https://almostinevitable.com/divi-tutorial-every-layout-shortcode/
 
+# Referência oficial para tema filho
+https://github.com/elegantthemes/divi-child-theme-init
 
 Contato: para dúvidas e sugestões, envie um e-mail para contato@sitesehospedagem.com.br
 
@@ -25,6 +27,10 @@ SiteHo is a child Wordpress theme created initially by Edson C da Silva, based o
 Version 1.0 - October 08 2019
 - created the child theme
 - Added support for generating / displaying shortcodes in functions.php based on shared code in the following tutorial: https://almostinevitable.com/divi-tutorial-every-layout-shortcode/
+
+
+# Official child theme template
+https://github.com/elegantthemes/divi-child-theme-init
 
 
 Contact: For questions and suggestions, send an email to contato@sitesehospedagem.com.br
