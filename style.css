@@ -24,6 +24,11 @@ transform: scale(1.1)
 /* 
 Set Equal Column Heights using Flexbox
 https://divi.space/css-course/how-to-set-equal-column-heights-using-flexbox/
+<<<<<<< Updated upstream
+=======
+
+To use this feature: set the collums to equalize the height and add the CSS iD "flex-row-wrapper" in the collun properties
+>>>>>>> Stashed changes
 */
 .flex-row-wrapper {
     display: flex;
