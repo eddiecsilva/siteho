@@ -24,7 +24,7 @@ Para acompanhar as alterações deste projeto acompanhe o histórico de [commits
 
 
 ## Referência oficial para tema filho
-https://github.com/elegantthemes/divi-child-theme-init
+Arquivos originais [podem ser encontrados aqui](https://github.com/elegantthemes/divi-child-theme-init)
 
 Para dúvidas e sugestões, envie um e-mail para <contato@sitesehospedagem.com.br>
 

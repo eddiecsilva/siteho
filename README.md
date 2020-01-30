@@ -18,15 +18,15 @@ SiteHo is a child Wordpress theme created initially by [Edson C da Silva](https:
 
 
 ## Change history
-To follow the changes of this project follow the history of [commits] (https://github.com/eddiecsilva/siteho/commits/)
+To follow the changes of this project follow the history of [commits](https://github.com/eddiecsilva/siteho/commits/)
 
 
 ## Additional functions
-- Added support for generating / displaying shortcodes in functions.php based on the code shared in the [following tutorial] (https://almostinevitable.com/divi-tutorial-every-layout-shortcode/)
+- Added support for generating / displaying shortcodes in functions.php based on the code shared in the [following tutorial](https://almostinevitable.com/divi-tutorial-every-layout-shortcode/)
 
 
 ## Official child theme template
-https://github.com/elegantthemes/divi-child-theme-init
+Original files [can be found here](https://github.com/elegantthemes/divi-child-theme-init)
 
 For questions and suggestions, send an email to <contato@sitesehospedagem.com.br>
 
