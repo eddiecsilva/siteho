@@ -1,7 +1,7 @@
 # SITEHO
 Tema filho para Wordpress baseado no tema Divi da Elegant Themes com algumas funções extras e pequenos ajustes.
 
-![SITEHO - screenshot](screenshoot.png)
+![SITEHO - screenshot](https://github.com/eddiecsilva/siteho/blob/master/screenshot.jpg)
 
 ## AVISO
 Este tema é uma prova de conceito criada para fins de aprendizado e teste de técnicas internas.

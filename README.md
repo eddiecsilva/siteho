@@ -1,7 +1,7 @@
 # SITEHO
 Child theme for Elegant Themes Divi theme with new functions and bug fixes
 
-![SITEHO - screenshot](screenshoot.png)
+![SITEHO - screenshot](https://github.com/eddiecsilva/siteho/blob/master/screenshot.jpg)
 
 ## WARNING
 This theme is a proof of concept created for the purpose of learning and testing internal techniques.
