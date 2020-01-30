@@ -1,6 +1,8 @@
 # SITEHO
 Tema filho para Wordpress baseado no tema Divi da Elegant Themes com algumas funções extras e pequenos ajustes.
 
+![SITEHO - screenshot](screenshoot.png)
+
 ## AVISO
 Este tema é uma prova de conceito criada para fins de aprendizado e teste de técnicas internas.
 Não oferecemos nenhuma garantia ou suporte para este projeto.
@@ -13,11 +15,11 @@ Para uma versão em inglês consulte este documento [README.md](https://github.c
 SiteHo é um tema filho para Wordpress criado inicialmente por [Edson C da Silva](https://www.linkedin.com/in/edson-conceicao-da-silva/), usando como base o tema Divi da Elegant Themes.
 
 
-# Histórico de alterações
+## Histórico de alterações
 Para acompanhar as alterações deste projeto acompanhe o histórico de [commits](https://github.com/eddiecsilva/siteho/commits/)
 
 
-# Funções adicionais
+## Funções adicionais
 - adicionado suporte a geração/exibição de shortcodes no functions.php com base no código compartilhado no [seguinte tutorial](https://almostinevitable.com/divi-tutorial-every-layout-shortcode/)
 
 
