@@ -4,8 +4,7 @@ Tema filho para Wordpress baseado no tema Divi da Elegant Themes com algumas fun
 ![SITEHO - screenshot](https://github.com/eddiecsilva/siteho/blob/master/screenshot.jpg)
 
 ## AVISO
-Este tema é uma prova de conceito criada para fins de aprendizado e teste de técnicas internas.
-Não oferecemos nenhuma garantia ou suporte para este projeto.
+Este tema é uma prova de conceito criada para fins de aprendizado e testes internos. Não oferecemos nenhuma garantia ou suporte para este projeto.
 A colaboração é bem-vinda e bugs que forem reportados serão avaliados conforme a disponibilidade de tempo.
 
 ## Outras versões deste documento
